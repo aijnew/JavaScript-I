@@ -45,7 +45,7 @@ const keven = {
 
 const gannie = {
   id: 4,
-  name: Gannie,
+  name: "Gannie",
   email: "gmartinson3@illinois.edu",
   gender: "M"
 }
