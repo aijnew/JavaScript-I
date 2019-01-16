@@ -32,7 +32,7 @@ const kennan = {
   email: "kdiben1@tinypic.com",
   gender: "M",
   speak: function(){
-    console.log('Hello, my name is ${this.name}');
+    console.log('Hello, my name is ${`this.name`}');
   }
 }
 
@@ -40,14 +40,14 @@ const keven = {
   id: 3,
   name: "Keven",
   email: "kmummery2@wikimedia.org",
-  gender: "M",
+  gender: "M"
 }
 
 const gannie = {
   id: 4,
   name: Gannie,
   email: "gmartinson3@illinois.edu",
-  gender: "M",
+  gender: "M"
 }
 
 const antonietta = {
